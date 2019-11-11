@@ -1,0 +1,11 @@
+C:\Users\ypoli\Desktop\НАВЧАННЯ\Programming\ITEA.MAIN\C# Advanced\Homeworks\Homework_4.Events.11.11\bin\Debug\netcoreapp3.0\Homework_4.Events.11.11.exe
+C:\Users\ypoli\Desktop\НАВЧАННЯ\Programming\ITEA.MAIN\C# Advanced\Homeworks\Homework_4.Events.11.11\bin\Debug\netcoreapp3.0\Homework_4.Events.11.11.deps.json
+C:\Users\ypoli\Desktop\НАВЧАННЯ\Programming\ITEA.MAIN\C# Advanced\Homeworks\Homework_4.Events.11.11\bin\Debug\netcoreapp3.0\Homework_4.Events.11.11.runtimeconfig.json
+C:\Users\ypoli\Desktop\НАВЧАННЯ\Programming\ITEA.MAIN\C# Advanced\Homeworks\Homework_4.Events.11.11\bin\Debug\netcoreapp3.0\Homework_4.Events.11.11.runtimeconfig.dev.json
+C:\Users\ypoli\Desktop\НАВЧАННЯ\Programming\ITEA.MAIN\C# Advanced\Homeworks\Homework_4.Events.11.11\bin\Debug\netcoreapp3.0\Homework_4.Events.11.11.dll
+C:\Users\ypoli\Desktop\НАВЧАННЯ\Programming\ITEA.MAIN\C# Advanced\Homeworks\Homework_4.Events.11.11\bin\Debug\netcoreapp3.0\Homework_4.Events.11.11.pdb
+C:\Users\ypoli\Desktop\НАВЧАННЯ\Programming\ITEA.MAIN\C# Advanced\Homeworks\Homework_4.Events.11.11\obj\Debug\netcoreapp3.0\Homework_4.Events.11.11.csprojAssemblyReference.cache
+C:\Users\ypoli\Desktop\НАВЧАННЯ\Programming\ITEA.MAIN\C# Advanced\Homeworks\Homework_4.Events.11.11\obj\Debug\netcoreapp3.0\Homework_4.Events.11.11.AssemblyInfoInputs.cache
+C:\Users\ypoli\Desktop\НАВЧАННЯ\Programming\ITEA.MAIN\C# Advanced\Homeworks\Homework_4.Events.11.11\obj\Debug\netcoreapp3.0\Homework_4.Events.11.11.AssemblyInfo.cs
+C:\Users\ypoli\Desktop\НАВЧАННЯ\Programming\ITEA.MAIN\C# Advanced\Homeworks\Homework_4.Events.11.11\obj\Debug\netcoreapp3.0\Homework_4.Events.11.11.dll
+C:\Users\ypoli\Desktop\НАВЧАННЯ\Programming\ITEA.MAIN\C# Advanced\Homeworks\Homework_4.Events.11.11\obj\Debug\netcoreapp3.0\Homework_4.Events.11.11.pdb
