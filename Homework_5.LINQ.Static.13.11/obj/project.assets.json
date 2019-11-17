@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ypoli\\Desktop\\НАВЧАННЯ\\Programming\\ITEA.MAIN\\C# Advanced\\Homeworks\\Homework_5.LINQ.Static.13.11\\Homework_5.LINQ.Static.13.11.csproj",
+      "projectUniqueName": "C:\\Users\\ypoli\\Desktop\\НАВЧАННЯ\\Advanced_CSharp\\Homework_5.LINQ.Static.13.11\\Homework_5.LINQ.Static.13.11.csproj",
       "projectName": "Homework_5.LINQ.Static.13.11",
-      "projectPath": "C:\\Users\\ypoli\\Desktop\\НАВЧАННЯ\\Programming\\ITEA.MAIN\\C# Advanced\\Homeworks\\Homework_5.LINQ.Static.13.11\\Homework_5.LINQ.Static.13.11.csproj",
+      "projectPath": "C:\\Users\\ypoli\\Desktop\\НАВЧАННЯ\\Advanced_CSharp\\Homework_5.LINQ.Static.13.11\\Homework_5.LINQ.Static.13.11.csproj",
       "packagesPath": "C:\\Users\\ypoli\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ypoli\\Desktop\\НАВЧАННЯ\\Programming\\ITEA.MAIN\\C# Advanced\\Homeworks\\Homework_5.LINQ.Static.13.11\\obj\\",
+      "outputPath": "C:\\Users\\ypoli\\Desktop\\НАВЧАННЯ\\Advanced_CSharp\\Homework_5.LINQ.Static.13.11\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
