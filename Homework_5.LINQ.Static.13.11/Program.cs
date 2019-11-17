@@ -11,8 +11,7 @@ namespace Homework_5.LINQ.Static._13._11
             MyNonStaticClass.MyStaticMethod(someAction1);
 
             //Task 2
-            MyDelegate myDelegate;
-            MyStaticClass.CallDelegate(myDelegate = () => Console.WriteLine("\nЕще одна произвольная фраза."));
+            MyStaticClass.CallDelegate(() => Console.WriteLine("\nЕще одна произвольная фраза."));
 
             //Task 3
             Human human = new Human();

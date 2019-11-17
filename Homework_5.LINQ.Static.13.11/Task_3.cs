@@ -12,7 +12,7 @@ namespace Homework_5.LINQ.Static._13._11
     }
     public class Human
     {
-        public BodyParts MostImportantBodyPart { get; set; }
+        public BodyParts MostImportantBodyPart { get; set; } = BodyParts.Head;
     }
     public static class HumanExtension
     {
