@@ -28,13 +28,14 @@ namespace Homework_6.LINQ.AnonymousType._18._11
                              Group = sortedGroups
                          };
 
-            foreach (var group in groups)
-            {
-                Console.WriteLine("Key:" + group.Key);
-                foreach (var person in group)                    // ????????????????
-                {
-                    Console.Write(group.Count);
-                }
+            foreach (var group in groups)                       // ===!!!===
+            {                                                   // ===!!!===
+                Console.WriteLine("Key:" + group.Key);          // ===!!!=== 
+                foreach (var person in group.Group)             // ===!!!===
+                    foreach (var human in person)               // ===!!!===
+                    {                                           // ===!!!===
+                        Console.WriteLine(human);               // ===!!!===
+                    }
             }
         }
 
