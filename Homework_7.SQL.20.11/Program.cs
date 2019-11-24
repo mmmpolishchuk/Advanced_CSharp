@@ -7,8 +7,8 @@ namespace Homework_7.SQL._20._11
         static void Main(string[] args)
         {
             //SQLClass.MyUpdate();
-            SQL_Connection.CreateConnection();
-            //InsertInTable.MovieInserting();
+            SQL_Connection.CreateMyTable();
+            InsertInTable.MovieInserting();
             SelectTable.ShowMovies();
 
         }

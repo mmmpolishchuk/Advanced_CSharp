@@ -10,9 +10,9 @@ namespace TryToConnectToMyDB
         {
             SqlConnection connection = new SqlConnection();
             connection.ConnectionString = @"Data source = SOME1;
-                   Initial Catalog = mPolishchuk_CSharpAdvanced;
-                    Integrated Security = SSPI;";
-
+                                            Initial Catalog = mPolishchuk_CSharpAdvanced;
+                                            Integrated Security = SSPI;";
+             
             try
             {
                 connection.Open();

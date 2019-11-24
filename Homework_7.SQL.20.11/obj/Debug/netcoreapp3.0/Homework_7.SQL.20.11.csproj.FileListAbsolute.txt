@@ -17,3 +17,14 @@ C:\Users\ypoli\Desktop\НАВЧАННЯ\Programming\ITEA.MAIN\C# Advanced\Homewo
 C:\Users\ypoli\Desktop\НАВЧАННЯ\Programming\ITEA.MAIN\C# Advanced\Homeworks\Homework_7.SQL.20.11\bin\Debug\netcoreapp3.0\Homework_7.SQL.20.11.pdb
 C:\Users\ypoli\Desktop\НАВЧАННЯ\Programming\ITEA.MAIN\C# Advanced\Homeworks\Homework_7.SQL.20.11\obj\Debug\netcoreapp3.0\Homework_7.SQL.20.11.dll
 C:\Users\ypoli\Desktop\НАВЧАННЯ\Programming\ITEA.MAIN\C# Advanced\Homeworks\Homework_7.SQL.20.11\obj\Debug\netcoreapp3.0\Homework_7.SQL.20.11.pdb
+C:\Users\ypoli\Desktop\НАВЧАННЯ\Programming\ITEA.MAIN\C# Advanced\Homeworks\Homework_7.SQL.20.11\bin\Debug\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ypoli\Desktop\НАВЧАННЯ\Programming\ITEA.MAIN\C# Advanced\Homeworks\Homework_7.SQL.20.11\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ypoli\Desktop\НАВЧАННЯ\Programming\ITEA.MAIN\C# Advanced\Homeworks\Homework_7.SQL.20.11\bin\Debug\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ypoli\Desktop\НАВЧАННЯ\Programming\ITEA.MAIN\C# Advanced\Homeworks\Homework_7.SQL.20.11\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ypoli\Desktop\НАВЧАННЯ\Programming\ITEA.MAIN\C# Advanced\Homeworks\Homework_7.SQL.20.11\bin\Debug\netcoreapp3.0\System.Security.Permissions.dll
+C:\Users\ypoli\Desktop\НАВЧАННЯ\Programming\ITEA.MAIN\C# Advanced\Homeworks\Homework_7.SQL.20.11\bin\Debug\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\ypoli\Desktop\НАВЧАННЯ\Programming\ITEA.MAIN\C# Advanced\Homeworks\Homework_7.SQL.20.11\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ypoli\Desktop\НАВЧАННЯ\Programming\ITEA.MAIN\C# Advanced\Homeworks\Homework_7.SQL.20.11\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ypoli\Desktop\НАВЧАННЯ\Programming\ITEA.MAIN\C# Advanced\Homeworks\Homework_7.SQL.20.11\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ypoli\Desktop\НАВЧАННЯ\Programming\ITEA.MAIN\C# Advanced\Homeworks\Homework_7.SQL.20.11\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ypoli\Desktop\НАВЧАННЯ\Programming\ITEA.MAIN\C# Advanced\Homeworks\Homework_7.SQL.20.11\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
