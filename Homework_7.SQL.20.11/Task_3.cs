@@ -26,7 +26,9 @@ namespace Homework_7.SQL._20._11
                 SqlCommand commandTwo = new SqlCommand(myRequeryThird, myConnection);
 
                 myConnection.Open();
-
+                command.ExecuteNonQuery();
+                commandOne.ExecuteNonQuery();
+                commandTwo.ExecuteNonQuery();
                 Console.WriteLine("Rows inserted.");
             }
         }

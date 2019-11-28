@@ -9,7 +9,7 @@ namespace Homework_7.SQL._20._11
 
         public static void CreateMyTable()
         {
-            string requeryString = @"CREATE TABLE [dbo].[MovieS] (
+            string requeryString = @"CREATE TABLE [dbo].[MovieZZZ] (
                                      [Name]  NVARCHAR (20)  NOT NULL,
                                      [Genre] NVARCHAR (20)  NOT NULL,
                                      [Year]  INT                NULL,
@@ -17,16 +17,14 @@ namespace Homework_7.SQL._20._11
 
             using (SqlConnection myConnection = new SqlConnection())
             {
-                myConnection.ConnectionString =
-                                               @"Data Source = SOME1; 
-                                               Initial Catalog = mPolishchuk_CSharpAdvanced;
-                                               Integrated Security = SSPI;";
+                myConnection.ConnectionString = ConfigurationManager.ConnectionStrings["AdvanceCSharpCS"].ToString();
 
-                //myConnection.ConnectionString = ConfigurationManager.ConnectionStrings["AdvanceCSharpCS"].ToString();
                 SqlCommand myCommand = new SqlCommand(requeryString, myConnection);
                 myConnection.Open();
+                myCommand.ExecuteNonQuery();
                 Console.WriteLine("DB name: " + myConnection.Database);
             }
+
         }
     }
 }

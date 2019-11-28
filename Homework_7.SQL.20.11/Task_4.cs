@@ -24,6 +24,7 @@ namespace Homework_7.SQL._20._11
                 Console.WriteLine("\nName: {0}\tGenre: {1}\tYear: {2}", sqlDataReader[0].ToString(), sqlDataReader[1].ToString(), 
                     sqlDataReader[2].ToString());
             }
+            sqlCommand.ExecuteReader();
             myConnection.Close();
         }
     }
