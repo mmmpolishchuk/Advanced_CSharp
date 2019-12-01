@@ -1,0 +1,6 @@
+C:\Users\ypoli\Desktop\НАВЧАННЯ\Programming\ITEA.MAIN\C# Advanced\Homeworks\Homework_10.Atributes.Forms.02.12\bin\Debug\Homework_10.Atributes.Forms.02.12.exe.config
+C:\Users\ypoli\Desktop\НАВЧАННЯ\Programming\ITEA.MAIN\C# Advanced\Homeworks\Homework_10.Atributes.Forms.02.12\bin\Debug\Homework_10.Atributes.Forms.02.12.exe
+C:\Users\ypoli\Desktop\НАВЧАННЯ\Programming\ITEA.MAIN\C# Advanced\Homeworks\Homework_10.Atributes.Forms.02.12\bin\Debug\Homework_10.Atributes.Forms.02.12.pdb
+C:\Users\ypoli\Desktop\НАВЧАННЯ\Programming\ITEA.MAIN\C# Advanced\Homeworks\Homework_10.Atributes.Forms.02.12\obj\Debug\Homework_10.Atributes.Forms.02.12.csprojAssemblyReference.cache
+C:\Users\ypoli\Desktop\НАВЧАННЯ\Programming\ITEA.MAIN\C# Advanced\Homeworks\Homework_10.Atributes.Forms.02.12\obj\Debug\Homework_10.Atributes.Forms.02.12.exe
+C:\Users\ypoli\Desktop\НАВЧАННЯ\Programming\ITEA.MAIN\C# Advanced\Homeworks\Homework_10.Atributes.Forms.02.12\obj\Debug\Homework_10.Atributes.Forms.02.12.pdb

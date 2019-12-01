@@ -1,0 +1,9 @@
+C:\Users\ypoli\Desktop\НАВЧАННЯ\Programming\ITEA.MAIN\C# Advanced\Homeworks\Homework_10.Atributes.Forms.02.12\Task_3\bin\Debug\Task_3.exe.config
+C:\Users\ypoli\Desktop\НАВЧАННЯ\Programming\ITEA.MAIN\C# Advanced\Homeworks\Homework_10.Atributes.Forms.02.12\Task_3\bin\Debug\Task_3.exe
+C:\Users\ypoli\Desktop\НАВЧАННЯ\Programming\ITEA.MAIN\C# Advanced\Homeworks\Homework_10.Atributes.Forms.02.12\Task_3\bin\Debug\Task_3.pdb
+C:\Users\ypoli\Desktop\НАВЧАННЯ\Programming\ITEA.MAIN\C# Advanced\Homeworks\Homework_10.Atributes.Forms.02.12\Task_3\obj\Debug\Task_3.csprojAssemblyReference.cache
+C:\Users\ypoli\Desktop\НАВЧАННЯ\Programming\ITEA.MAIN\C# Advanced\Homeworks\Homework_10.Atributes.Forms.02.12\Task_3\obj\Debug\Task_3.Form1.resources
+C:\Users\ypoli\Desktop\НАВЧАННЯ\Programming\ITEA.MAIN\C# Advanced\Homeworks\Homework_10.Atributes.Forms.02.12\Task_3\obj\Debug\Task_3.Properties.Resources.resources
+C:\Users\ypoli\Desktop\НАВЧАННЯ\Programming\ITEA.MAIN\C# Advanced\Homeworks\Homework_10.Atributes.Forms.02.12\Task_3\obj\Debug\Task_3.csproj.GenerateResource.cache
+C:\Users\ypoli\Desktop\НАВЧАННЯ\Programming\ITEA.MAIN\C# Advanced\Homeworks\Homework_10.Atributes.Forms.02.12\Task_3\obj\Debug\Task_3.exe
+C:\Users\ypoli\Desktop\НАВЧАННЯ\Programming\ITEA.MAIN\C# Advanced\Homeworks\Homework_10.Atributes.Forms.02.12\Task_3\obj\Debug\Task_3.pdb
