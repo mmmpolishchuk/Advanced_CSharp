@@ -25,16 +25,12 @@ namespace Task_3
             if (openFileDialog.ShowDialog() == DialogResult.OK)
             {
                 string fileName = openFileDialog.FileName;
+
+                using (var stream = new FileStream(fileName, FileMode.Open))
+                {
+                    pictureBox1.Image = Image.FromStream(stream);
+                }
             }
         }
-
-        private void openFileDialog1_FileOk(object sender, CancelEventArgs e)
-        {
-            using (var stream = new FileStream(@"D:\Courses\SovereignRing.jpg", FileMode.Open))
-            {
-                pictureBox1.Image = Image.FromStream(stream);
-            }
-        }
-
     }
 }
