@@ -1,0 +1,8 @@
+D:\НАВЧАННЯ\Programming\ITEA.MAIN\C# Advanced\Homeworks\First_task\bin\Debug\First_task.exe.config
+D:\НАВЧАННЯ\Programming\ITEA.MAIN\C# Advanced\Homeworks\First_task\bin\Debug\First_task.exe
+D:\НАВЧАННЯ\Programming\ITEA.MAIN\C# Advanced\Homeworks\First_task\bin\Debug\First_task.pdb
+D:\НАВЧАННЯ\Programming\ITEA.MAIN\C# Advanced\Homeworks\First_task\obj\Debug\First_task.Form1.resources
+D:\НАВЧАННЯ\Programming\ITEA.MAIN\C# Advanced\Homeworks\First_task\obj\Debug\First_task.Properties.Resources.resources
+D:\НАВЧАННЯ\Programming\ITEA.MAIN\C# Advanced\Homeworks\First_task\obj\Debug\First_task.csproj.GenerateResource.cache
+D:\НАВЧАННЯ\Programming\ITEA.MAIN\C# Advanced\Homeworks\First_task\obj\Debug\First_task.exe
+D:\НАВЧАННЯ\Programming\ITEA.MAIN\C# Advanced\Homeworks\First_task\obj\Debug\First_task.pdb
