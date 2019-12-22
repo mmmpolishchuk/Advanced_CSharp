@@ -7,3 +7,12 @@ C:\Users\ypoli\Desktop\НАВЧАННЯ\Programming\ITEA.MAIN\C# Advanced\Homewo
 C:\Users\ypoli\Desktop\НАВЧАННЯ\Programming\ITEA.MAIN\C# Advanced\Homeworks\Homework_11.Threads.04.12\obj\Debug\Tasks_3_4.csproj.CopyComplete
 C:\Users\ypoli\Desktop\НАВЧАННЯ\Programming\ITEA.MAIN\C# Advanced\Homeworks\Homework_11.Threads.04.12\obj\Debug\Homework_11.Threads.04.12.exe
 C:\Users\ypoli\Desktop\НАВЧАННЯ\Programming\ITEA.MAIN\C# Advanced\Homeworks\Homework_11.Threads.04.12\obj\Debug\Homework_11.Threads.04.12.pdb
+D:\НАВЧАННЯ\Programming\ITEA.MAIN\C# Advanced\Homeworks\Homework_11.Threads.04.12\bin\Debug\Homework_11.Threads.04.12.exe.config
+D:\НАВЧАННЯ\Programming\ITEA.MAIN\C# Advanced\Homeworks\Homework_11.Threads.04.12\bin\Debug\Homework_11.Threads.04.12.exe
+D:\НАВЧАННЯ\Programming\ITEA.MAIN\C# Advanced\Homeworks\Homework_11.Threads.04.12\bin\Debug\Homework_11.Threads.04.12.pdb
+D:\НАВЧАННЯ\Programming\ITEA.MAIN\C# Advanced\Homeworks\Homework_11.Threads.04.12\bin\Debug\Assemblies.dll
+D:\НАВЧАННЯ\Programming\ITEA.MAIN\C# Advanced\Homeworks\Homework_11.Threads.04.12\bin\Debug\Assemblies.pdb
+D:\НАВЧАННЯ\Programming\ITEA.MAIN\C# Advanced\Homeworks\Homework_11.Threads.04.12\obj\Debug\Tasks_3_4.csprojAssemblyReference.cache
+D:\НАВЧАННЯ\Programming\ITEA.MAIN\C# Advanced\Homeworks\Homework_11.Threads.04.12\obj\Debug\Tasks_3_4.csproj.CopyComplete
+D:\НАВЧАННЯ\Programming\ITEA.MAIN\C# Advanced\Homeworks\Homework_11.Threads.04.12\obj\Debug\Homework_11.Threads.04.12.exe
+D:\НАВЧАННЯ\Programming\ITEA.MAIN\C# Advanced\Homeworks\Homework_11.Threads.04.12\obj\Debug\Homework_11.Threads.04.12.pdb
