@@ -1,9 +1,0 @@
-D:\НАВЧАННЯ\Programming\ITEA.MAIN\C# Advanced\Homeworks\Task_2\bin\Debug\Task_2.exe.config
-D:\НАВЧАННЯ\Programming\ITEA.MAIN\C# Advanced\Homeworks\Task_2\bin\Debug\Task_2.exe
-D:\НАВЧАННЯ\Programming\ITEA.MAIN\C# Advanced\Homeworks\Task_2\bin\Debug\Task_2.pdb
-D:\НАВЧАННЯ\Programming\ITEA.MAIN\C# Advanced\Homeworks\Task_2\obj\Debug\Task_2.csprojAssemblyReference.cache
-D:\НАВЧАННЯ\Programming\ITEA.MAIN\C# Advanced\Homeworks\Task_2\obj\Debug\Task_2.Form1.resources
-D:\НАВЧАННЯ\Programming\ITEA.MAIN\C# Advanced\Homeworks\Task_2\obj\Debug\Task_2.Properties.Resources.resources
-D:\НАВЧАННЯ\Programming\ITEA.MAIN\C# Advanced\Homeworks\Task_2\obj\Debug\Task_2.csproj.GenerateResource.cache
-D:\НАВЧАННЯ\Programming\ITEA.MAIN\C# Advanced\Homeworks\Task_2\obj\Debug\Task_2.exe
-D:\НАВЧАННЯ\Programming\ITEA.MAIN\C# Advanced\Homeworks\Task_2\obj\Debug\Task_2.pdb

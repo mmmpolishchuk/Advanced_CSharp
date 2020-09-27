@@ -12692,23 +12692,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ypoli\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\mmpol\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\НАВЧАННЯ\\Programming\\ITEA.MAIN\\C# Advanced\\Homeworks\\ITEA_Management\\ITEA_Management.csproj",
+      "projectUniqueName": "D:\\Styding\\Advanced_CSharp\\ITEA_Management\\ITEA_Management.csproj",
       "projectName": "ITEA_Management",
-      "projectPath": "D:\\НАВЧАННЯ\\Programming\\ITEA.MAIN\\C# Advanced\\Homeworks\\ITEA_Management\\ITEA_Management.csproj",
-      "packagesPath": "C:\\Users\\ypoli\\.nuget\\packages\\",
-      "outputPath": "D:\\НАВЧАННЯ\\Programming\\ITEA.MAIN\\C# Advanced\\Homeworks\\ITEA_Management\\obj\\",
+      "projectPath": "D:\\Styding\\Advanced_CSharp\\ITEA_Management\\ITEA_Management.csproj",
+      "packagesPath": "C:\\Users\\mmpol\\.nuget\\packages\\",
+      "outputPath": "D:\\Styding\\Advanced_CSharp\\ITEA_Management\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\ypoli\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\mmpol\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -12768,7 +12764,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
       }
     }
   }
